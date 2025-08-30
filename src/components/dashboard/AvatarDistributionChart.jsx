@@ -41,7 +41,7 @@ const AvatarDistributionChart = () => {
 
   return (
     <div className="h-64">
-      <h3 className="text-xl font-semibold mb-2">Avatar Distribution</h3>
+      <h3 className="text-xl  text-center font-semibold mb-2">Avatar Distribution</h3>
       <ResponsiveContainer width="100%" height="100%">
         <PieChart>
           <Pie

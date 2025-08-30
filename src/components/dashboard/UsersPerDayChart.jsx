@@ -51,7 +51,7 @@ const UsersPerDayChart = () => {
 
   return (
     <div className="h-72 py-4">
-      <h3 className="text-xl font-semibold mb-2">
+      <h3 className="text-xl text-center font-semibold mb-2">
         Users Created Per Day (Last 30 Days)
       </h3>
       <ResponsiveContainer width="100%" height="100%">

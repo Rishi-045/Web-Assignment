@@ -9,7 +9,7 @@ const RecentUsersList = () => {
 
   return (
     <>
-      <h3 className="text-xl font-semibold mb-4 text-black">
+      <h3 className="text-xl  font-semibold mb-4 text-black">
         Recently Joined Users
       </h3>
       <div className="space-y-3 max-h-100 overflow-hidden">
