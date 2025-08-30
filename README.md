@@ -10,7 +10,7 @@ The project consists of two main modules:
 
 ## 🌐 Project Preview
 
-![Preview](https://web-assignment27-git-main-rishikesh-pals-projects.vercel.app/)
+[Preview](https://web-assignment27-git-main-rishikesh-pals-projects.vercel.app/)
 
 ## Features Implemented
 
